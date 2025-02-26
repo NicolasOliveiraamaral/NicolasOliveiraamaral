@@ -1,4 +1,4 @@
-<h2 align="center">Olá, sou Nicolas! 👋  <br>Estudante de Ciência da Computação com experiência em Kotlin, Python, C, C#, HTML e CSS. Atualmente, estudando JavaScript para aprimorar habilidades em desenvolvimento web.</h2>
+<h2 align="center">Olá, sou Nicolas! 👋  <br>Estudante de Ciência da Computação. Atualmente, estudando JavaScript para aprimorar habilidades em desenvolvimento web.</h2>
 
 ###
 
